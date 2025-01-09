@@ -1,0 +1,6 @@
+PyQt6>=6.5.0
+Pillow
+pyperclip
+keyboard
+beautifulsoup4
+requests
